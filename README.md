@@ -47,6 +47,6 @@ Overall, the code accomplishes its goal of being a responsive, attractive, and f
 https://github.com/user-attachments/assets/ae681584-b959-4ff1-987d-b21951ce1f49
 
 *PHOTO-1*:
-
+![Image](https://github.com/user-attachments/assets/22cd8f4d-64c8-440c-a523-39551c438d40)
 
   
