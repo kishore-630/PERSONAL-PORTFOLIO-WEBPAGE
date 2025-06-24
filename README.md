@@ -9,7 +9,7 @@
 
 *MENTOR* : NEELA SANTOSH
 
-*DESCRIPTION * :
+*DESCRIPTION* :
 The provided code is a complete personal portfolio website developed using HTML and CSS. This portfolio is designed for Gurrala Kishore Kumar, a third-year B.Tech student specializing in Computer Science. The purpose of the site is to showcase the individual's background, technical skills, education, language proficiencies, projects, and contact information in a well-organized and visually appealing manner. The structure follows a clean, semantic approach using modern HTML5 elements like <header>, <section>, and <footer>.
 
 At the top of the HTML document, the <head> section includes essential meta tags such as charset="UTF-8" for character encoding and viewport settings for responsive design on different devices. The <title> tag sets the page title as "My Portfolio," and a link is included to an external CSS file (style.css) for styling the page.
@@ -45,6 +45,6 @@ The .skills-grid is styled using Flexbox to wrap items and ensure equal spacing.
 The footer uses the same dark background as the header for visual consistency, with centered white text. A media query ensures the navbar is responsive: below 768px screen width, the navigation links stack vertically, with reduced gaps and margin for compactness on smaller devices.
 
 * OUTPUT*:
-  *Vedio Output*:
+*Vedio Output*:
 
   
