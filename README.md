@@ -41,7 +41,12 @@ The .skills-grid and .skill-box classes work together to visually group the user
 
 Overall, the code accomplishes its goal of being a responsive, attractive, and functional portfolio website. It highlights key achievements and technical abilities, presents personal and academic information clearly, and is built on a solid HTML/CSS foundation. Some minor structural improvements could enhance maintainability, such as properly closing all section tags and ensuring that each section is correctly nested. Nonetheless, the layout is intuitive, mobile-friendly, and easy to navigate. This portfolio serves not only as a technical showcase but also as a digital resume — helping the developer make a strong first impression online.
 
-* OUTPUT*:
+*OUTPUT*:
 *Vedio Output*:
+
+https://github.com/user-attachments/assets/ae681584-b959-4ff1-987d-b21951ce1f49
+
+*PHOTO-1*:
+
 
   
